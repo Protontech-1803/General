@@ -11,7 +11,7 @@ Go to **Gateway of Tally > Ratio Analysis**. The **Ratio Analysis** screen is di
  ![Alt text](https://github.com/Protontech-1803/General/blob/main/RatioAnalysisInTally/img/1.png)
  
 
-**Principal Groups and key figures
+**Principal Groups and key figures**
 
 The principal groups and key figures in Tally.ERP 9 are detailed in this topic. 
 
