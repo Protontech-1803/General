@@ -15,25 +15,25 @@ Go to **Gateway of Tally > Ratio Analysis**. The **Ratio Analysis** screen is di
 
 The principal groups and key figures in Tally.ERP 9 are detailed in this topic. 
 
-**Working Capital** : The Net Working Capital is calculated by subtracting Current Liabilities from Current Assets. Financial Analysts consider the total Current Assets as the Working Capital. This serves as a measure of how far the firm is protected from liquidity problems. 
+- **Working Capital** : The Net Working Capital is calculated by subtracting Current Liabilities from Current Assets. Financial Analysts consider the total Current Assets as the Working Capital. This serves as a measure of how far the firm is protected from liquidity problems. 
 
-**Cash in Hand and Bank Balances** : This data presents another perspective on the liquidity position. 
+- **Cash in Hand and Bank Balances** : This data presents another perspective on the liquidity position. 
 
-**Sundry Debtors (due till today)** : The list of all the debtors and the total debts due as on the date of the statement, are displayed.
+- **Sundry Debtors (due till today)** : The list of all the debtors and the total debts due as on the date of the statement, are displayed.
 
-**Sundry Creditors (due till today)** : The list of all the creditors and the total credits due as on the date of the statement are displayed. 
+- **Sundry Creditors (due till today)** : The list of all the creditors and the total credits due as on the date of the statement are displayed. 
 
-**Sales and Purchase Accounts** : The Sales and Purchase Accounts, which collate the trading activity for the period, are displayed. 
+- **Sales and Purchase Accounts** : The Sales and Purchase Accounts, which collate the trading activity for the period, are displayed. 
 
-**Stock in Hand** : This field displays the stock in hand as on the date of the report and together with Cash and Bank Balances and Debtors, completes the Current Assets aspect of the Working Capital. 
+- **Stock in Hand** : This field displays the stock in hand as on the date of the report and together with Cash and Bank Balances and Debtors, completes the Current Assets aspect of the Working Capital. 
 
-**Nett Profit** : This is derived from the Profit & Loss Account and is the profit after direct and indirect expenses. 
+- **Nett Profit** : This is derived from the Profit & Loss Account and is the profit after direct and indirect expenses. 
 
-**Wkg. Capital Turnover (Sales Accounts/Working Capital)** : This is an activity or efficiency ratio that shows the number of times the working capital has been rolled over during a particular period. It depicts how effectively the firm is using its working capital. 
+- **Wkg. Capital Turnover (Sales Accounts/Working Capital)** : This is an activity or efficiency ratio that shows the number of times the working capital has been rolled over during a particular period. It depicts how effectively the firm is using its working capital. 
 
-**Inventory Turnover (Sales Accounts/Closing Stock)** : This is an activity or efficiency ratio that shows the number of times the stock has been rolled over during the period of the report. It depicts how effectively the firm is using its inventories.
+- **Inventory Turnover (Sales Accounts/Closing Stock)** : This is an activity or efficiency ratio that shows the number of times the stock has been rolled over during the period of the report. It depicts how effectively the firm is using its inventories.
 
-**Payment Performance of Sundry Debtors**
+- **Payment Performance of Sundry Debtors**
 
 Payment Performance of Debtors (Receivable Turnover in days) is the average time the customers take to actually pay their bills irrespective of the outstanding balance on the statement date. It is quite possible that the receivable turnover is low and the payment performance is high, indicating that the customers cleared their outstanding, but took a long time doing it. 
 
