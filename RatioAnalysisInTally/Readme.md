@@ -33,7 +33,7 @@ Wkg. Capital Turnover (Sales Accounts/Working Capital) : This is an activity or 
 
 Inventory Turnover (Sales Accounts/Closing Stock) : This is an activity or efficiency ratio that shows the number of times the stock has been rolled over during the period of the report. It depicts how effectively the firm is using its inventories.
 
-**Payment Performance of Sundry Debtors
+**Payment Performance of Sundry Debtors**
 
 Payment Performance of Debtors (Receivable Turnover in days) is the average time the customers take to actually pay their bills irrespective of the outstanding balance on the statement date. It is quite possible that the receivable turnover is low and the payment performance is high, indicating that the customers cleared their outstanding, but took a long time doing it. 
 
